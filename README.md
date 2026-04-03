@@ -27,6 +27,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 
 - **[CodeRabbit](https://coderabbit.ai)** Provides line-by-line feedback on pull requests and generates summaries of changes. Features a chat interface within the PR to discuss the feedback with the AI.
 
+- **[Git AutoReview](https://gitautoreview.com)** VS Code extension that reviews pull requests using three AI models (Claude, GPT, Gemini) to catch bugs, security vulnerabilities, and performance issues. Supports GitHub, GitLab, and Bitbucket — the only tool covering all three platforms from inside the IDE.
+
 - **[Greptile](https://greptile.com)** An AI engine that indexes the entire codebase to understand context. It focuses on answering complex questions about the repo and reviewing code with full-repository awareness.
 
 - **[Zenable](https://zenable.io)** AI guardrails that learn your team's standards and ensure coding agents follow them. Works across IDE (via MCP), pre-commit, and PR review to catch bugs and security issues in AI-generated code in real-time.
