@@ -35,6 +35,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 
 - **[Revieko](https://synqra.tech/revieko)** - Repo-specific architecture drift detection in pull requests (structural risk + hotspots).
 
+- **[Polarity](https://www.polarity.so)** - The First AI QA Engineer which does code review, testing, and long running agent tasks. Understands your entire codebase and code quality, zero fluff comments.
+
 ## IDE Assistants & Copilots
 
 _Tools that integrate with editors or local environments for autocomplete, chat, and agentic coding._
@@ -98,6 +100,7 @@ _Command-line tools for local reviews and "hacker" workflows._
 - **[Code Review Benchmark](https://codereviewbench.com/)**: Comprehensive evaluation of LLM performance in AI-powered code review tasks.
 - **[SWE-bench](https://www.swebench.com/)** - Evaluation framework for language models on real-world software engineering issues.
 - **[HumanEval](https://github.com/openai/human-eval)** - OpenAI's dataset for evaluating code generation capabilities.
+- **[ReviewBenchLite](https://www.polarity.so/research/2)** - Comprehensive evaluation of code review agents on top 100 git repos.
 
 ---
 
