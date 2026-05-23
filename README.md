@@ -41,6 +41,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 
 - **[AI Change Passport](https://github.com/P-r-e-m-i-u-m/ai-change-passport)** - GitHub Action and CLI that creates signed provenance reports for AI-assisted pull requests, helping reviewers see sensitive files, dependency edits, workflow changes, and test coverage signals.
 
+- **[Ejentum agent-teams (adversarial-code-review)](https://github.com/ejentum/agent-teams)** Multi-agent code-review team built on the Ejentum Reasoning Harness. Reviewer agents call `harness_code` and `harness_anti_deception` as agentic tools during the review loop; each call returns a structured scaffold (named failure pattern, executable procedure, suppression vectors, falsification test) the agent reads internally before issuing review feedback. Catches false-confident approvals and sunk-cost framings that single-agent reviewers miss.
+
 ## IDE Assistants & Copilots
 
 _Tools that integrate with editors or local environments for autocomplete, chat, and agentic coding._
