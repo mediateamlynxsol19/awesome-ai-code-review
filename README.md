@@ -79,11 +79,11 @@ _Fundamental reading on how LLMs are transforming software engineering._
 
 - **[AutoCodeRover: Autonomous Program Improvement](https://arxiv.org/abs/2404.05427v1)**: LLM for program improvement via code review and repair.
 
-- **[Prompting and Fine-tuning Large Language Models for Automated Code Review Comment Generation](https://arxiv.org/abs/2411.10129)**=: Fine-tuning LLMs with QLoRA for generating accurate code review comments.
+- **[Prompting and Fine-tuning Large Language Models for Automated Code Review Comment Generation](https://arxiv.org/abs/2411.10129)**: Fine-tuning LLMs with QLoRA for generating accurate code review comments.
 
 - **[Fine-Tuning Large Language Models to Improve Accuracy and Comprehensibility of Automated Code Review](https://dl.acm.org/doi/10.1145/3695993)**: Enhancing LLM accuracy and comprehensibility in automated code reviews.
 
- **[Lessons from Building Static Analysis Tools at Google](https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext)**: Why low false-positive rates are crucial (validating the need for specialized agents).
+ - **[Lessons from Building Static Analysis Tools at Google](https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext)**: Why low false-positive rates are crucial (validating the need for specialized agents).
 
 
 ## Security & Static Analysis AI
