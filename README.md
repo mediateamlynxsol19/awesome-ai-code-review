@@ -8,7 +8,7 @@ A curated list of AI-powered tools, agents, and platforms dedicated to automatin
 
 - [Automated PR Agents](#automated-pr-agents)
 - [IDE Assistants & Copilots](#ide-assistants--copilots)
-- [Research & Benchmarks](#research--benchmarks)
+- [Key Research & Papers](#key-research--papers)
 - [Security & Static Analysis AI](#security--static-analysis-ai)
 - [CLI & Local Workflows](#cli--local-workflows)
 - [Open Source Models](#open-source-models-for-code)
@@ -40,6 +40,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 - **[Polarity](https://www.polarity.so)** - The First AI QA Engineer which does code review, testing, and long running agent tasks. Understands your entire codebase and code quality, zero fluff comments.
 
 - **[AI Change Passport](https://github.com/P-r-e-m-i-u-m/ai-change-passport)** - GitHub Action and CLI that creates signed provenance reports for AI-assisted pull requests, helping reviewers see sensitive files, dependency edits, workflow changes, and test coverage signals.
+
+- **[Gito](https://github.com/Nayjest/Gito)** - Open-source AI code reviewer for GitHub and GitLab. Runs locally via CLI or in CI/CD pipelines, and works with any LLM provider — including self-hosted models (Ollama, LM Studio, vLLM) for fully private reviews.
 
 ## IDE Assistants & Copilots
 
