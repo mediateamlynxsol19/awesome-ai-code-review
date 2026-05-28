@@ -41,6 +41,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 
 - **[AI Change Passport](https://github.com/P-r-e-m-i-u-m/ai-change-passport)** - GitHub Action and CLI that creates signed provenance reports for AI-assisted pull requests, helping reviewers see sensitive files, dependency edits, workflow changes, and test coverage signals.
 
+- **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)** - Open-source AI coding orchestrator with automated verification gates (build, test, lint, format, AI review) that enforce code quality before any PR reaches human review. Orchestrates Claude Code, Codex, Antigravity, Copilot, and OpenCode.
+
 ## IDE Assistants & Copilots
 
 _Tools that integrate with editors or local environments for autocomplete, chat, and agentic coding._
