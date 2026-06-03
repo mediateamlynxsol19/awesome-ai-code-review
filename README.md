@@ -39,9 +39,13 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 
 - **[Polarity](https://www.polarity.so)** - The First AI QA Engineer which does code review, testing, and long running agent tasks. Understands your entire codebase and code quality, zero fluff comments.
 
+- **[Conclave AI](https://conclave-ai.dev)** - A council of three models (Claude, GPT-5, Gemini) reviews each PR and, with a PRD attached, flags scope drift a diff-only review misses. Includes an autofix worker; self-hostable (FSL).
+
 - **[AI Change Passport](https://github.com/P-r-e-m-i-u-m/ai-change-passport)** - GitHub Action and CLI that creates signed provenance reports for AI-assisted pull requests, helping reviewers see sensitive files, dependency edits, workflow changes, and test coverage signals.
 
 - **[Ejentum agent-teams (adversarial-code-review)](https://github.com/ejentum/agent-teams)** Multi-agent code-review team built on the Ejentum Reasoning Harness. Reviewer agents call `harness_code` and `harness_anti_deception` as agentic tools during the review loop; each call returns a structured scaffold (named failure pattern, executable procedure, suppression vectors, falsification test) the agent reads internally before issuing review feedback. Catches false-confident approvals and sunk-cost framings that single-agent reviewers miss.
+
+- **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)** - Open-source AI coding orchestrator with automated verification gates (build, test, lint, format, AI review) that enforce code quality before any PR reaches human review. Orchestrates Claude Code, Codex, Antigravity, Copilot, and OpenCode.
 
 ## IDE Assistants & Copilots
 
