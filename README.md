@@ -39,6 +39,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 
 - **[Polarity](https://www.polarity.so)** - The First AI QA Engineer which does code review, testing, and long running agent tasks. Understands your entire codebase and code quality, zero fluff comments.
 
+- **[Conclave AI](https://conclave-ai.dev)** - A council of three models (Claude, GPT-5, Gemini) reviews each PR and, with a PRD attached, flags scope drift a diff-only review misses. Includes an autofix worker; self-hostable (FSL).
+
 - **[AI Change Passport](https://github.com/P-r-e-m-i-u-m/ai-change-passport)** - GitHub Action and CLI that creates signed provenance reports for AI-assisted pull requests, helping reviewers see sensitive files, dependency edits, workflow changes, and test coverage signals.
 
 ## IDE Assistants & Copilots
