@@ -8,7 +8,7 @@ A curated list of AI-powered tools, agents, and platforms dedicated to automatin
 
 - [Automated PR Agents](#automated-pr-agents)
 - [IDE Assistants & Copilots](#ide-assistants--copilots)
-- [Research & Benchmarks](#research--benchmarks)
+- [Key Research & Papers](#key-research--papers)
 - [Security & Static Analysis AI](#security--static-analysis-ai)
 - [CLI & Local Workflows](#cli--local-workflows)
 - [Open Source Models](#open-source-models-for-code)
@@ -42,6 +42,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 - **[Conclave AI](https://conclave-ai.dev)** - A council of three models (Claude, GPT-5, Gemini) reviews each PR and, with a PRD attached, flags scope drift a diff-only review misses. Includes an autofix worker; self-hostable (FSL).
 
 - **[AI Change Passport](https://github.com/P-r-e-m-i-u-m/ai-change-passport)** - GitHub Action and CLI that creates signed provenance reports for AI-assisted pull requests, helping reviewers see sensitive files, dependency edits, workflow changes, and test coverage signals.
+
+- **[Gito](https://github.com/Nayjest/Gito)** - Open-source AI code reviewer for GitHub and GitLab. Runs locally via CLI or in CI/CD pipelines, and works with any LLM provider — including self-hosted models (Ollama, LM Studio, vLLM) for fully private reviews.
 
 - **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)** - Open-source AI coding orchestrator with automated verification gates (build, test, lint, format, AI review) that enforce code quality before any PR reaches human review. Orchestrates Claude Code, Codex, Antigravity, Copilot, and OpenCode.
 
@@ -81,11 +83,11 @@ _Fundamental reading on how LLMs are transforming software engineering._
 
 - **[AutoCodeRover: Autonomous Program Improvement](https://arxiv.org/abs/2404.05427v1)**: LLM for program improvement via code review and repair.
 
-- **[Prompting and Fine-tuning Large Language Models for Automated Code Review Comment Generation](https://arxiv.org/abs/2411.10129)**=: Fine-tuning LLMs with QLoRA for generating accurate code review comments.
+- **[Prompting and Fine-tuning Large Language Models for Automated Code Review Comment Generation](https://arxiv.org/abs/2411.10129)**: Fine-tuning LLMs with QLoRA for generating accurate code review comments.
 
 - **[Fine-Tuning Large Language Models to Improve Accuracy and Comprehensibility of Automated Code Review](https://dl.acm.org/doi/10.1145/3695993)**: Enhancing LLM accuracy and comprehensibility in automated code reviews.
 
- **[Lessons from Building Static Analysis Tools at Google](https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext)**: Why low false-positive rates are crucial (validating the need for specialized agents).
+ - **[Lessons from Building Static Analysis Tools at Google](https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext)**: Why low false-positive rates are crucial (validating the need for specialized agents).
 
 
 ## Security & Static Analysis AI
