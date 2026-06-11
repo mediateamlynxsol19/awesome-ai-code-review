@@ -16,6 +16,13 @@ A curated list of AI-powered tools, agents, and platforms dedicated to automatin
 
 ---
 
+# NeuroNest AI Software Workflow Assistant
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an AI software workflow assistant designed to help developers manage coding, debugging, testing, and project improvement with better efficiency. It supports security checks, DevOps tasks, automation, and technical research, making it a useful tool for teams that want a more organized AI-powered development process.
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
+
 ## Automated PR Agents
 
 _Tools that connect directly to GitHub/GitLab to review Pull Requests, comment on code, and suggest fixes asynchronously._
